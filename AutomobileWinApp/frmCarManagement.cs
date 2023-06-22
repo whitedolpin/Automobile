@@ -131,5 +131,7 @@ namespace AutomobileWinApp
                 source.Position = source.Count - 1;
             }
         }
+
+        private void btnClose_Click(object sender, EventArgs e) => Close();
     }
 }

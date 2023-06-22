@@ -177,6 +177,7 @@
             btnClose.TabIndex = 15;
             btnClose.Text = "Close";
             btnClose.UseVisualStyleBackColor = true;
+            btnClose.Click += btnClose_Click;
             // 
             // frmCarManagement
             // 
