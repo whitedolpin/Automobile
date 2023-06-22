@@ -1,0 +1,12 @@
+D:\Kỳ 5\PRN211\Workspace\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+D:\Kỳ 5\PRN211\Workspace\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+D:\Kỳ 5\PRN211\Workspace\AutomobileSolution\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+D:\Kỳ 5\PRN211\Workspace\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\Kỳ 5\PRN211\Workspace\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kỳ 5\PRN211\Workspace\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\Kỳ 5\PRN211\Workspace\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+D:\Kỳ 5\PRN211\Workspace\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\Kỳ 5\PRN211\Workspace\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+D:\Kỳ 5\PRN211\Workspace\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+D:\Kỳ 5\PRN211\Workspace\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+D:\Kỳ 5\PRN211\Workspace\AutomobileSolution\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
